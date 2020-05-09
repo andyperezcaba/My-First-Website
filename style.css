@@ -1,0 +1,63 @@
+.carousel-caption {
+    height: 400px;
+}
+.carousel-inner img {
+    filter: brightness(50%);
+
+}
+.carousel-inner h1 {
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.color {
+    background-color: rgba(0, 0, 0, 0.377);
+}
+button {
+    margin-top: 50px;
+}
+.navbar-brand {
+    text-transform: uppercase;
+}
+.navbar-nav {
+    position: relative;
+    left: 350px;
+}
+.col {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 0;
+    background-size: cover;
+}
+.image img {
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+hr {
+    width: 200px;
+}
+.col p {
+    padding: 0px 50px;
+}
+.about-us {
+    text-align: center;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+.about-us hr, .bottom-hr {
+    width: 500px;
+    border-bottom: black 1px solid;
+}
+.lead {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.lead h1 {
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bolder;
+}
